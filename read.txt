@@ -1,7 +1,0 @@
-Git is a version control system.
-Git is free software.
-now i studying git
-i hava chance
-这是第五行
-这是第六行
-这是第七行
