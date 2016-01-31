@@ -3,3 +3,4 @@ Git is free software.
 now i studying git
 i hava chance
 这是第五行
+这是第六行
